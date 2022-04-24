@@ -7,6 +7,7 @@ using System.Windows.Shapes;
 
 namespace SnakeGame
 {
+    //Snake food
     class SnakeFood
     {
         public List<Rectangle> Rects { get; set; }
